@@ -1,0 +1,14 @@
+{
+  "Settings": {
+    "AdminFlag": "@css/ban, @css/resetscore",
+    "ResetScoreFlag": "",
+    "ResetScorePayment": 0,
+    "ResetScoreCooldown": 30
+  },
+  "Commands": {
+    "ResetScore_Commands": "resetscore, rs",
+    "ResetTeamScore_Commands": "resetteamscore, rts",
+    "SetScore_Commands": "setscore",
+    "SetTeamScore_Commands": "setteamscore"
+  }
+}
